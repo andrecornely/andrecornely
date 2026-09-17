@@ -3,7 +3,7 @@
 <br>
 I'm 21 years old and a Systems Analysis and Development student with 3 years of experience studying programming and technology, focusing on Front-end development. I strive to continuously evolve as a developer and expand my overall technical knowledge. Looking ahead, I aim to specialize in Cybersecurity, Infrastructure, and Cloud to build a versatile career. 🚀
 
-This GitHub repository highlights my projects, studies, and hands-on experience throughout this journey. 📚
+This GitHub repository highlights my projects, studies, and hands-on experience throughout this journey. 💻
 
 
 ## 🌐 Socials:
